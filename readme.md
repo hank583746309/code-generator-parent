@@ -29,7 +29,11 @@ spring.datasource.url=jdbc:h2:file:~/code-gen;
 ![模版页](assert/tpl.png)
 ![生成页](assert/code_gen.png)
 ![下载展示](assert/download.png)
-
+![数据源](assert/data_source.png)
+![数据源界面](assert/data_source_main.png)
+![数据源编辑](assert/data_source_edit.png)
+![数据源查询表](assert/data_source_tables.png)
+![数据源生成结果](assert/data_source_gen_res.png)
 ## 不支持
 
 - 联合主建表生成，待逻辑支持
