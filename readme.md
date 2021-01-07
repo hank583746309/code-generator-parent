@@ -2,6 +2,8 @@
 
 国内gitee地址: [laohuangshu](https://gitee.com/laohuangshu/code-generator-parent) 访问速度更快。
 
+在线演示 [地址](http://123.56.225.223:10021/), 首次加载较慢，请耐心等待, 感谢 [luoyg2018](https://github.com/luoyg2018) 提供的服务器。
+
 ## 启动
 
 - mybatis-plus-generator-3.2.1_hq.jar 依赖导入maven仓库
@@ -26,7 +28,6 @@ spring.datasource.url=jdbc:h2:file:~/code-gen;
 - 支持数据源方式批量生成【适用于本地或内网环境】<font color=red>同时支持视图生成代码</font>
 
 # 功能展示
-在线演示 [地址](http://123.56.225.223:10021/), 首次加载较慢，请耐心等待, 感谢 [luoyg2018](https://github.com/luoyg2018) 提供的服务器。
 
 ![首页](assert/index.png)
 ![模版页](assert/tpl.png)
